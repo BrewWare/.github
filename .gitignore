@@ -1,0 +1,32 @@
+# .env file for storing environment variables (sensitive data)
+.env
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE or editor configuration files
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Build directories
+dist/
+build/
+
+# GitHub Action cache
+.github/cache/
+
+# Coverage output
+coverage/
+
+# Dependency lock files (optional, depending on your needs)
+package-lock.json
+yarn.lock
