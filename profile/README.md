@@ -1,6 +1,6 @@
 # 🛠️ BrewWare
 
-Welcome to the **BrewWare** GitHub! We're a collective of passionate developers dedicated to creating innovative, custom software solutions for personal projects, niche applications, and experimental tech. Our mission is to empower the community with tools that push boundaries and inspire creativity.
+Welcome to the **BrewWare** GitHub! We're a collective of passionate developers dedicated to creating innovative, custom software solutions for homebrew projects, ease of development, and a community focused mindset. Our mission is to empower the community with tools that push boundaries and inspire creativity.
 
 ## 🚀 What We Do
 - **BrewHub:** An open-source app store for discovering and sharing homebrew applications.
